@@ -44,10 +44,13 @@ The dataset was obtained using web scraping from reviews on Google Maps for 38 w
 
 ## Deployment Link
 <p align="center">
-  <a href="https://huggingface.co/spaces/ryandio/expedanalytics">
+  <a href="https://huggingface.co/spaces/Radenaz/ftds-rmt-38-finalproject">
     <img width="100" alt="hf-logo" src="https://github.com/user-attachments/assets/da40d37b-af00-4fc0-b55a-e4eb3cf2a371"/>
   </a>
 </p>
+### How to use
+- Head to the deployment link above.
+- Log in with the following (choose one set of account and pass): 1) jne1, kurir1 ; 2) jnt2, kurir2 ; 3) sicepat3, kurir3.
 
 ## Presentation Slides
 <p align="center">
